@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-13T18:07:35 IST" name="Default suite" finished-at="2022-10-13T18:08:28 IST" duration-ms="53145">
+    <groups>
+    </groups>
+    <test started-at="2022-10-13T18:07:35 IST" name="Default test" finished-at="2022-10-13T18:08:28 IST" duration-ms="53145">
+      <class name="TestPackage.OpenGoogle">
+        <test-method is-config="true" signature="RunFirst()[pri:0, instance:TestPackage.OpenGoogle@4fb61f4a]" started-at="2022-10-13T18:07:35 IST" name="RunFirst" finished-at="2022-10-13T18:08:01 IST" duration-ms="25887" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RunFirst -->
+        <test-method signature="TestFaceBook()[pri:0, instance:TestPackage.OpenGoogle@4fb61f4a]" started-at="2022-10-13T18:08:01 IST" name="TestFaceBook" finished-at="2022-10-13T18:08:28 IST" duration-ms="27177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestFaceBook -->
+      </class> <!-- TestPackage.OpenGoogle -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
